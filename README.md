@@ -1,6 +1,6 @@
 # VueVerse Open Source
 
-**VueVerse Open Source** is a community-driven initiative under **VueVerse**, focused on building, sharing, and maintaining open-source projects around **Vue.js and its ecosystem**.
+**VueVerse Open Source** is a community-driven initiative under **VueVerse**, focused on building, sharing, and maintaining open-source project around **Vue.js and its ecosystem**.
 
 This repository is a place where developers—beginners to experts—can **learn by building**, **contribute confidently**, and **grow together**.
 
